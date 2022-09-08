@@ -1,3 +1,7 @@
+# Editors
+.idea
+.code
+
 # Compiled class file
 *.class
 
