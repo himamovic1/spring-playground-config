@@ -1,9 +1,0 @@
-spring:
-  cloud:
-    config:
-      enabled: true
-
-# Application level params
-app:
-  user:
-    role: Developer
